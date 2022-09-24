@@ -1,0 +1,3 @@
+/home/wilson/Documents/2022四資/secret/reset/cmake-build-debug/CMakeFiles/reset.dir
+/home/wilson/Documents/2022四資/secret/reset/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wilson/Documents/2022四資/secret/reset/cmake-build-debug/CMakeFiles/rebuild_cache.dir
